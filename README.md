@@ -124,10 +124,5 @@ This helps banks target the right customers during marketing campaigns, reducing
 
 ---
 
-## 📜 License
-
-This project is for educational and internship purposes.
-
----
 
 ⭐ *If you found this helpful, consider giving the repo a star!*
