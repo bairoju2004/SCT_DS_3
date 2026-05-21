@@ -1,4 +1,4 @@
-# 🌳 Decision Tree Classifier — Bank Marketing Dataset
+#  Decision Tree Classifier — Bank Marketing Dataset
 
 > **Task 03** | Data Science Internship at **SkillCraft Technology**
 
@@ -107,9 +107,9 @@ This helps banks target the right customers during marketing campaigns, reducing
 
 ```
 📦 decision-tree-bank-marketing/
-├── 📓 Task03_Decision_Tree_Bank_Marketing.ipynb   # Main Colab notebook
-├── 📄 README.md                                   # Project documentation
-└── 📊 bank-additional/
+├──  Task03_Decision_Tree_Bank_Marketing.ipynb   # Main Colab notebook
+├──  README.md                                   # Project documentation
+└──  bank-additional/
     └── bank-additional-full.csv                   # Dataset (auto-downloaded in notebook)
 ```
 
@@ -118,7 +118,7 @@ This helps banks target the right customers during marketing campaigns, reducing
 ## 🚀 How to Run
 
 1. Open [Google Colab](https://colab.research.google.com/)
-2. Upload `Task03_Decision_Tree_Bank_Marketing.ipynb`
+2. Upload `SCT_DS_3.ipynb`
 3. Run all cells — the dataset is **auto-downloaded** from UCI, no manual setup needed
 4. All required libraries are pre-installed in Colab
 
